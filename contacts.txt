@@ -1,0 +1,3 @@
+Rahul Sharma|Lucknow|9876543210|rahul@gmail.com
+Priya Verma|Kanpur|9123456780|priya@gmail.com
+Aman Singh|Delhi|9988776655|aman@gmail.com
